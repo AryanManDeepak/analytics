@@ -7,3 +7,7 @@ Welocome to git hub
 kheer
 Pasta
 chicken
+
+Beans
+Pizza
+
